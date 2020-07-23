@@ -1,0 +1,12 @@
+main.c:89:5:main	24	static
+main.c:169:7:complexABS	16	static
+main.c:172:6:DoFFT	4120	static
+main.c:208:6:HAL_UART_TxHalfCpltCallback	16	static
+main.c:214:6:HAL_I2SEx_TxRxHalfCpltCallback	16	static
+main.c:220:6:HAL_I2SEx_TxRxCpltCallback	16	static
+main.c:230:6:SystemClock_Config	104	static
+main.c:281:13:MX_I2S2_Init	8	static
+main.c:315:13:MX_USART2_UART_Init	8	static
+main.c:346:13:MX_DMA_Init	16	static
+main.c:370:13:MX_GPIO_Init	56	static
+main.c:495:6:Error_Handler	4	static

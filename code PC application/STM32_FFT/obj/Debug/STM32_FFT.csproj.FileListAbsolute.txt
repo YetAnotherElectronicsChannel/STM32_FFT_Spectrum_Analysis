@@ -1,0 +1,7 @@
+C:\Users\Markus\Documents\SharpDevelop Projects\STM32_FFT\STM32_FFT\obj\Debug\STM32_FFT.csprojResolveAssemblyReference.cache
+C:\Users\Markus\Documents\SharpDevelop Projects\STM32_FFT\STM32_FFT\obj\Debug\STM32_FFT.MainForm.resources
+C:\Users\Markus\Documents\SharpDevelop Projects\STM32_FFT\STM32_FFT\obj\Debug\STM32_FFT.csproj.GenerateResource.Cache
+C:\Users\Markus\Documents\SharpDevelop Projects\STM32_FFT\STM32_FFT\bin\Debug\STM32_FFT.exe
+C:\Users\Markus\Documents\SharpDevelop Projects\STM32_FFT\STM32_FFT\bin\Debug\STM32_FFT.pdb
+C:\Users\Markus\Documents\SharpDevelop Projects\STM32_FFT\STM32_FFT\obj\Debug\STM32_FFT.exe
+C:\Users\Markus\Documents\SharpDevelop Projects\STM32_FFT\STM32_FFT\obj\Debug\STM32_FFT.pdb
